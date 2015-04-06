@@ -16,6 +16,8 @@ This is because every character is a String meter -- Because emoji are not fixed
 
 The meter sections are dynamically generated as separate files to be included in the skin
 
+The included font in the download is [Symbola by George Douros](http://users.teilar.gr/~g1951d/)
+
 GIF was recorded in [ScreenToGif](https://screentogif.codeplex.com/)
 
 ![Preview](http://orig13.deviantart.net/072d/f/2015/093/6/d/emotion__music_visualizer_for_rainmeter__by_alatsombath-d8ne3zg.gif)
