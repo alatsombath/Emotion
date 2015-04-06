@@ -17,5 +17,7 @@ Levels=24
 FontSize=20
 FontColor=161,186,220,255
 
+CharacterWidth=1.525
+
 FontFace=Symbola
 ; Must be a font that supports emojis
