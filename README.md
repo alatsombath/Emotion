@@ -6,6 +6,8 @@ Even though your text editor won't display it, Rainmeter will still show the sym
 
 You can change the font size, color, number of bands, and number of displayed "levels" through the "Edit variables" context menu option
 
+When launching the skin for the first time, the number of horizontal characters is automatically adjusted based on your computer's CPU usage
+
 You may have to manually adjust the "CharacterWidth" option if your chosen symbol is trimmed at the skin boundaries
 
 The Update frequency is 80 by default (Fastest is 16), but at the expense of performance you can change it through the "Edit skin" context menu option
